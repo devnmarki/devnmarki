@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko Smiljic</h1>
 <h3 align="center">A passionate Full Stack developer from Bosnia and Herzegovina</h3>
 
-- 🌱 I’m currently learning **ReactJS and Tailwind**
+- 🌱 I’m currently learning **Tailwind**
 
 - 📫 How to reach me **markosmiljic99@gmail.com**
 
